@@ -35,6 +35,12 @@ require it.
 <script src="path/to/lib.js"></script>
 ```
 
+Or you can include the script with jsdelivr.
+
+```html
+<script src="https://cdn.jsdelivr.net/gh/stdlib/lib-js/lib.js"></script>
+```
+
 ## Usage
 
 Here are some fictional calling examples for a user named `user` with a
